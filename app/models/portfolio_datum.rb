@@ -1,0 +1,2 @@
+class PortfolioDatum < ApplicationRecord
+end
